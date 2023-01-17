@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\ProductServer\ProductServer.Model\bin\Debug\ProductServer.Model.dll
+C:\Users\User\source\repos\ProductServer\ProductServer.Model\bin\Debug\ProductServer.Model.pdb
+C:\Users\User\source\repos\ProductServer\ProductServer.Model\obj\Debug\ProductServer.Model.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProductServer\ProductServer.Model\obj\Debug\ProductServer.Model.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProductServer\ProductServer.Model\obj\Debug\ProductServer.Model.dll
+C:\Users\User\source\repos\ProductServer\ProductServer.Model\obj\Debug\ProductServer.Model.pdb

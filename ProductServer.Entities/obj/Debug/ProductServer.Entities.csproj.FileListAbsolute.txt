@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ProductServer\ProductServer.Entities\bin\Debug\ProductServer.Entities.dll
+C:\Users\User\source\repos\ProductServer\ProductServer.Entities\bin\Debug\ProductServer.Entities.pdb
+C:\Users\User\source\repos\ProductServer\ProductServer.Entities\bin\Debug\ProductServer.Dal.dll
+C:\Users\User\source\repos\ProductServer\ProductServer.Entities\bin\Debug\ProductServer.Model.dll
+C:\Users\User\source\repos\ProductServer\ProductServer.Entities\bin\Debug\ProductServer.Dal.pdb
+C:\Users\User\source\repos\ProductServer\ProductServer.Entities\bin\Debug\ProductServer.Model.pdb
+C:\Users\User\source\repos\ProductServer\ProductServer.Entities\obj\Debug\ProductServer.Entities.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProductServer\ProductServer.Entities\obj\Debug\ProductServer.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProductServer\ProductServer.Entities\obj\Debug\ProductServer.Entities.csproj.CopyComplete
+C:\Users\User\source\repos\ProductServer\ProductServer.Entities\obj\Debug\ProductServer.Entities.dll
+C:\Users\User\source\repos\ProductServer\ProductServer.Entities\obj\Debug\ProductServer.Entities.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\ProductServer\ProductServer.Dal\bin\Debug\ProductServer.Dal.dll
+C:\Users\User\source\repos\ProductServer\ProductServer.Dal\bin\Debug\ProductServer.Dal.pdb
+C:\Users\User\source\repos\ProductServer\ProductServer.Dal\bin\Debug\ProductServer.Model.dll
+C:\Users\User\source\repos\ProductServer\ProductServer.Dal\bin\Debug\ProductServer.Model.pdb
+C:\Users\User\source\repos\ProductServer\ProductServer.Dal\obj\Debug\ProductServer.Dal.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProductServer\ProductServer.Dal\obj\Debug\ProductServer.Dal.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProductServer\ProductServer.Dal\obj\Debug\ProductServer.Dal.csproj.CopyComplete
+C:\Users\User\source\repos\ProductServer\ProductServer.Dal\obj\Debug\ProductServer.Dal.dll
+C:\Users\User\source\repos\ProductServer\ProductServer.Dal\obj\Debug\ProductServer.Dal.pdb
